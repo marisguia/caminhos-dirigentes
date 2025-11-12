@@ -1,0 +1,39 @@
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+div.figure {
+  text-align: center;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal .figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal .figure p.caption {
+  order: -1;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h1.title,
+.book .book-body .page-wrapper .page-inner section.normal h2.author,
+.book .book-body .page-wrapper .page-inner section.normal h3.date {
+  text-align: center;
+}
+
+p.subtitle,
+.book .book-body .page-wrapper .page-inner section.normal h1.subtitle,
+.book .book-body .page-wrapper .page-inner section.normal h2.subtitle,
+.book .book-body .page-wrapper .page-inner section.normal h1 + h2,
+.book .book-body .page-wrapper .page-inner section.normal h1 + h3 {
+  text-align: center;
+  font-weight: normal;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
