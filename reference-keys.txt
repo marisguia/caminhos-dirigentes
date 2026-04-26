@@ -57,6 +57,9 @@ fig:pgapnivel
 fig:pgaprenda
 fig:pcoefposto
 fig:pcoefdirigente
+fig:padendotopqciclogeral
+fig:padendotopqciclomunicipal
+fig:padendotopqboomerang
 index
 motivação-e-contexto
 objetivos
@@ -113,6 +116,12 @@ contrastes
 modelos-de-risco
 deixar-o-posto
 deixar-a-dirigência
+adendos
+permanência-de-dirigentes-de-entidades-sem-fins-lucrativos
+dirigentes-no-quintil-superior-da-remuneração
+tempo-de-permanência
+associação-entre-ciclo-eleitoral-e-rotatividade
+boomerang
 conclusão
 permanência-e-perfis-das-carreiras-dirigentes
 estabilidade-organizacional-e-sistemas-de-direção-1
@@ -122,3 +131,4 @@ padrões-de-duração-de-vínculos-dirigentes-1
 saídas-e-destinos-1
 gaps-na-rais-e-retornos-à-base-administrativa-1
 modelos-de-risco-1
+adendos-1
